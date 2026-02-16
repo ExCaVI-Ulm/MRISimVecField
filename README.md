@@ -1,7 +1,7 @@
 # MRISimVecField: MRI Simulation and Reconstruction Framework for Magnetic Vector Fields
 
 This simulator is a MATLAB simulation package capable of full consideration of angular magnetic field deviations. An interface to magnetic field simulation software like CST is fairly easy via import of txt-files. A more detailed description of this repository is published in:
-	-	
+	- F.Bschorr et al. MRI simulation and reconstruction framework for arbitrarily-oriented encoding and transmit/receive magnetic vector fields. Zeitschrift für Medizinische Physik. https://doi.org/10.1016/j.zemedi.2026.02.002
 
 
 #### General:
