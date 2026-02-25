@@ -28,6 +28,7 @@ More documentation can be found in "doc_V1.pdf"
 
 #### Citation
 If you intend to use any part of the code in the repository, please cite
+- F.Bschorr et al. MRI simulation and reconstruction framework for arbitrarily-oriented encoding and transmit/receive magnetic vector fields. Zeitschrift für Medizinische Physik. https://doi.org/10.1016/j.zemedi.2026.02.002
 
 #### Acknowledgments
 NOLIMS was developed within the ExCaVI group of Ulm University and Ulm University Medical Center.
